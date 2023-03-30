@@ -1,0 +1,127 @@
+body{
+background-color:rgb(0,0,0);	
+color:white;
+font-family:"Roboto Condensed", Sans-serif;
+font-size: 17px;
+text-align: center;
+}
+
+h1{
+text-transform: uppercase;
+font-family: Montserrat,sans-serif;
+font-size: 1.6rem;
+color: #FCBC04;
+font-weight: 800;
+letter-spacing: -1.5px;
+}
+
+h2{
+color: #FCBC04;
+font-size: 25px;
+font-weight: 800;
+letter-spacing: -1.75px;
+}
+
+h3{
+color:black;
+font-size: 25px;
+font-weight: 800;
+letter-spacing: -1.8px;
+}
+
+h4{
+color: #FCBC04;
+}
+
+a {
+  text-decoration: none;
+  color:#FCBC04;
+}
+
+p {
+  line-height: 1.5; /* Augmente l'écart entre les lignes à 1,5 fois la hauteur de la police */
+  letter-spacing: -0.75px;
+  font-weight: 150%;
+
+}
+
+/* Custom design with class */
+.container {
+  width: 800px;
+  margin:30px auto; 
+}
+
+.card-images {
+  margin-top: -22px;
+}
+
+
+.card-white {
+  color:black;
+  background-color:#fcb900;
+  padding: 10px 220px;
+  margin: -15px -120px;
+  margin-top: 22px;
+  border-radius: 4px;
+}
+
+.card-white:hover {
+  background-color:white;
+}
+
+.card-black {
+  padding: 10px 220px;
+  margin: 25px -120px;
+}
+
+.liste-crypto {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.liste-crypto li{
+ display: inline;
+ padding: 30px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+
+}
+
+.list-inline li {
+  display:inline;
+  padding:30px;
+
+}
+
+.list-inline i:hover {
+  color:white;
+}
+
+.list-image {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.list-image li {
+  display:inline;
+  padding:0 90px;
+}
+
+.card-réseaux {
+  margin-top: 150px;
+  margin-bottom: 80px;
+}
+
+
+
+
+
+  
+
+
+
+
+
